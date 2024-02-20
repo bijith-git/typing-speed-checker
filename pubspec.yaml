@@ -15,6 +15,7 @@ dependencies:
   flutter_hooks: ^0.20.5
   hooks_riverpod: ^2.4.10
   bitsdojo_window: ^0.1.6
+  firebase_core: ^2.25.4
 
 dev_dependencies:
   flutter_test:
